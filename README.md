@@ -1,4 +1,7 @@
 # EJM2Int2016-2017
+
+# UPDATED VERSION [HERE](https://github.com/TrakJohnson/ejm-classes)
+
 ## Link
 [>https://jingjieyang.github.io/EJM2Int2016-2017/<](https://jingjieyang.github.io/EJM2Int2016-2017/)
 ## What is this?
